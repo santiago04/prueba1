@@ -1,0 +1,13 @@
+insert into Personas values (101, 1030575509, "Julio Cesar", "Ramirez Penagos", "julio.ramirezp@cun.edu.co", "Calle 11 No. 4-21/ 93", "3122620320", "1990-05-16");
+insert into Personas values (102, 1820870365, "Diego Andres", "Albarracin", "diego.albarracinmi@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
+insert into Personas values (103, 1770996918, "Christian", "Castellanos", "christian.castellanosb@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
+insert into Personas values (104, 1609419028, "Santiago", "Gonzalez Sanchez", "santiago.gonzalezs@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
+insert into Personas values (105, 1570179086, "Camilo", "Cubides", "camilo.cubides@cun.edu.co", "Av cra 68 # 13 - 50", "3116418414", "1990-06-30");
+insert into Personas values (106, 1351192210, "Elizabeth", "Leon", "elizabeth.leon@cun.edu.co", "Calle 4 No. 5 – 10", "3127919883", "1986-02-15");
+insert into Personas values (107, 1460287893, "Jonatan", "Gomez", "jonathan.gomez@cun.edu.co", "Calle 24 N° 5-60", "3104011147", "1970-06-05");
+insert into Personas values (108, 0352418981, "Fredy", "Mercury", "fredy.mercury@cun.edu.co", "Avenida Cra. 60 No. 57-60", "3125404509", "1946-07-05");
+insert into Personas values (109, 1187873387, "Elon", "Musk", "elon.musk@cun.edu.co", "Calle 11 No. 4-21 / 93", "3171203834", "1971-06-28");
+insert into Personas values (110, 0715697914, "David", "Rodriguez", "david.rodriguez@cun.edu.co", "Calle 10 No. 5-22", "3149319401", "1991-08-15");
+insert into Personas values (111, 1305359087, "Raul", "Penagos", "raul.penagos@cun.edu.co", "Av. Calle 19 N° 2-49 Centro", "3147513211", "1991-08-15");
+insert into Personas values (112, 1086185765, "Julio", "Lopez", "julio.lopez@cun.edu.co", "Carrera 1 Este No. 17 01", "3125267188", "1996-09-15");
+insert into Personas values (113, 1929150684, "Alan", "Turing", "alan.turing@cun.edu.co", "Carrera 7 No. 22 - 79", "3119830980", "1912-06-23");
